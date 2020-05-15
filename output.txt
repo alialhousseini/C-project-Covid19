@@ -1,0 +1,19 @@
+Infected:
+First Name	 Last Name	 Number	 Tower
+Ahmed	Alami	0670124331	Tower1
+
+Tested but not infected:
+First Name	 Last Name	 Number	 Tower
+Belaid	Errami	0661223344	Tower2
+Rouwayda	Maani	0663836453	Tower1
+Nassim	Jawhari	0522457890	Tower2
+Hicham	Roudani	0661789298	Tower1
+Najwa	Seddik	0667836452	Tower1
+
+Not tested:
+First Name	 Last Name	 Number	 Tower
+Fatima	Fouadi	0671665533	Tower3
+Rachid	Fechtali	0535876543	Tower3
+Nabil	Benjelloun	0934432334	Tower3
+Lamiaa	Nadir	0753427289	Tower3
+Rezki	Ammari	0665647382	Tower3
