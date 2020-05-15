@@ -2,7 +2,7 @@
 
 ## Idea
 
-**Citizen Covid Detect and Track (CCDT) is a software that you were hired to design and implement for the ministry of health and ministry of interior. Needless to say, any work on the project (ideas, explanations, pieces of code, etc...) that is shared between different teams will be counted as plagiarism and severely dealt with.
+Citizen Covid Detect and Track (CCDT) is a software that you were hired to design and implement for the ministry of health and ministry of interior. Needless to say, any work on the project (ideas, explanations, pieces of code, etc...) that is shared between different teams will be counted as plagiarism and severely dealt with.
 
 
 ## Content
